@@ -1,0 +1,34 @@
+{
+  "name": "treasure-hunt",
+  "version": "1.0.0",
+  "description": "a treasure hunt game",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuyGalvarino/treasure-hunt.git"
+  },
+  "author": "Sagnik Ghosh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuyGalvarino/treasure-hunt/issues"
+  },
+  "homepage": "https://github.com/GuyGalvarino/treasure-hunt#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-async-errors": "^3.1.1",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.4",
+    "mongoose-unique-validator": "^4.0.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "jest": "^29.5.0",
+    "nodemon": "^2.0.22",
+    "supertest": "^6.3.3"
+  }
+}

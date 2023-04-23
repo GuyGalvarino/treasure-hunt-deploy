@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/static/js/main.fac085fa.js",
+    "static/media/bedroom.jpg": "/static/media/bedroom.51a390e574f63cf96109.jpg",
+    "static/media/bathroom.jpg": "/static/media/bathroom.98bbac75ae5af40395fa.jpg",
+    "static/media/kitchen.jpg": "/static/media/kitchen.d798b7f24ccad3f74b22.jpg",
+    "static/media/living.jpg": "/static/media/living.5e6af5973c0829742fe7.jpg",
+    "static/media/pexels-david-bartus-366791.jpg": "/static/media/pexels-david-bartus-366791.7aed0fdfeffed58a0e62.jpg",
+    "static/media/study.jpg": "/static/media/study.77bd6ffe3bef2e7472df.jpg",
+    "static/media/BigrB89jT.png": "/static/media/BigrB89jT.e5338430ee825f19d074.png",
+    "static/media/key.png": "/static/media/key.32817778c96f28d5f4c3.png",
+    "index.html": "/index.html",
+    "main.fac085fa.js.map": "/static/js/main.fac085fa.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fac085fa.js"
+  ]
+}
